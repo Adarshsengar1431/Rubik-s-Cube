@@ -1,1 +1,1 @@
-# Rubik-s-Cube
+# Rubik-s-Cube By Adarsh S Sengar
